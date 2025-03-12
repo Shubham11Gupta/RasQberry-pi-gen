@@ -3,7 +3,7 @@ name: Build Raspberry Pi Image
 on:
   push:
     branches:
-      - arm64
+      - 30-sw-platform-JRL
   workflow_dispatch:
 
 jobs:
